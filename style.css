@@ -12,3 +12,20 @@ header{
     position: fixed;
     width: 100%;
 }
+
+#Brand-logo{
+    height: 50px;
+    padding-left: 50px;
+}
+
+.menu-list{
+    display: flex;
+    font-size: 1.4rem;
+}
+.menu-list li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 150px;
+    margin-right: 150px;
+    cursor: pointer;
+}
