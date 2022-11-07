@@ -29,3 +29,12 @@ header{
     margin-right: 150px;
     cursor: pointer;
 }
+
+#home-section{
+    width: 100%;
+    padding-top: 90px;
+}
+
+#home-section img{
+    width: 100%;
+}
