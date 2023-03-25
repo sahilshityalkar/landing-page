@@ -132,3 +132,7 @@ header{
     font-size: 1.5rem;
     padding-top: 2rem;
 }
+
+#header_span_options{
+    color: white;
+}
